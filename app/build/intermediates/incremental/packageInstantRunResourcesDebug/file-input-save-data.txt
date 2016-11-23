@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Nov 21 13:38:09 EST 2016
+1.base=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.file=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+4.base=/Users/geogehigbie/Documents/Android TTT projects/ContentProvider-SQLite/app/build/intermediates/res/resources-debug.ap_
